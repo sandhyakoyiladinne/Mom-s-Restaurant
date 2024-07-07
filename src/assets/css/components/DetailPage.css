@@ -51,7 +51,7 @@
   border-radius: 10px;
 }
 
-.add-button {
+.css-button-sliding-to-left--sand {
   background-color: #d09338;
   color: white;
   border: none;
@@ -60,6 +60,6 @@
   cursor: pointer;
 }
 
-.add-button:hover {
-  background-color: #d09338;
+.css-button-sliding-to-left--sand:hover {
+  background-color: #adcf14;
 }

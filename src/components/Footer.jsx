@@ -23,7 +23,7 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-column">
           <img
-            src="https://upload.wikimedia.org/wikipedia/en/6/6a/Swiggy_logo.svg"
+            src="https://logos-world.net/wp-content/uploads/2020/11/Swiggy-Emblem.png"
             alt="Swiggy Logo"
             className="footer-logo"
           />
